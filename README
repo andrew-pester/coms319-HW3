@@ -1,0 +1,3 @@
+To run the following code you must open the snake.html file in your brouser and then click start to start the game.
+As for running hw3.js you will need to use a terminal, find the dir the file is located in and
+run it using node hw3.js and it will ask for different inputs that you must enter.
